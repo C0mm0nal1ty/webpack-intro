@@ -1,4 +1,4 @@
-#Webpack Mini Projects
+# Webpack Mini Projects
 
 This course was all about getting introduced to webpack and how it can be of used to the average full-staack web developer.
 
